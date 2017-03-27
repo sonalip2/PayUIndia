@@ -1,0 +1,275 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-30 08:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/class-amex-eze-click.php:20 includes/class-amex-eze-click.php:115
+msgid "PayU Amex ezeClick"
+msgstr ""
+
+#: includes/class-amex-eze-click.php:68 includes/class-emi.php:70
+#: includes/class-wallet.php:70 includes/class-debit-card.php:69
+#: includes/class-net-banking.php:70 includes/class-payumoney.php:71
+#: includes/class-cod.php:68 includes/class-credit-card.php:67
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-amex-eze-click.php:70 includes/class-emi.php:72
+#: includes/class-wallet.php:72 includes/class-debit-card.php:71
+#: includes/class-net-banking.php:72 includes/class-payumoney.php:73
+#: includes/class-cod.php:70 includes/class-credit-card.php:69
+msgid "Enable PayU India"
+msgstr ""
+
+#: includes/class-amex-eze-click.php:74 includes/class-emi.php:76
+#: includes/class-wallet.php:76 includes/class-debit-card.php:75
+#: includes/class-net-banking.php:76 includes/class-payumoney.php:77
+#: includes/class-cod.php:74 includes/class-credit-card.php:73
+msgid "Title"
+msgstr ""
+
+#: includes/class-amex-eze-click.php:76 includes/class-emi.php:78
+#: includes/class-wallet.php:78 includes/class-debit-card.php:77
+#: includes/class-net-banking.php:78 includes/class-payumoney.php:79
+#: includes/class-cod.php:76 includes/class-credit-card.php:75
+msgid "This text show at frontend during checkout page."
+msgstr ""
+
+#: includes/class-amex-eze-click.php:79 includes/class-emi.php:81
+#: includes/class-wallet.php:81 includes/class-debit-card.php:80
+#: includes/class-net-banking.php:81 includes/class-payumoney.php:82
+#: includes/class-cod.php:79 includes/class-credit-card.php:78
+msgid "Description"
+msgstr ""
+
+#: includes/class-amex-eze-click.php:81 includes/class-emi.php:83
+#: includes/class-wallet.php:83 includes/class-debit-card.php:82
+#: includes/class-net-banking.php:83 includes/class-payumoney.php:84
+#: includes/class-cod.php:81 includes/class-credit-card.php:80
+msgid "This text show at frontend during during checkout page."
+msgstr ""
+
+#: includes/class-amex-eze-click.php:84 includes/class-emi.php:86
+#: includes/class-wallet.php:86 includes/class-debit-card.php:85
+#: includes/class-net-banking.php:86 includes/class-payumoney.php:87
+#: includes/class-cod.php:84 includes/class-credit-card.php:83
+msgid "Merchant ID"
+msgstr ""
+
+#: includes/class-amex-eze-click.php:86 includes/class-emi.php:88
+#: includes/class-wallet.php:88 includes/class-debit-card.php:87
+#: includes/class-net-banking.php:88 includes/class-payumoney.php:89
+#: includes/class-cod.php:86 includes/class-credit-card.php:85
+msgid ""
+"This ID is generated at the time of activation of your site and helps to "
+"uniquely identify you to PayU Credit Card."
+msgstr ""
+
+#: includes/class-amex-eze-click.php:90 includes/class-emi.php:92
+#: includes/class-wallet.php:92 includes/class-debit-card.php:91
+#: includes/class-net-banking.php:92 includes/class-payumoney.php:93
+#: includes/class-cod.php:90 includes/class-credit-card.php:89
+msgid "SALT"
+msgstr ""
+
+#: includes/class-amex-eze-click.php:92 includes/class-emi.php:94
+#: includes/class-wallet.php:94 includes/class-debit-card.php:93
+#: includes/class-net-banking.php:94 includes/class-payumoney.php:95
+#: includes/class-cod.php:92 includes/class-credit-card.php:91
+msgid "SALT provided by PayU Credit Card."
+msgstr ""
+
+#: includes/class-amex-eze-click.php:97 includes/class-emi.php:99
+#: includes/class-wallet.php:99 includes/class-debit-card.php:98
+#: includes/class-net-banking.php:99 includes/class-payumoney.php:100
+#: includes/class-cod.php:97 includes/class-credit-card.php:96
+msgid "Test Mode"
+msgstr ""
+
+#: includes/class-amex-eze-click.php:99 includes/class-emi.php:101
+#: includes/class-wallet.php:101 includes/class-debit-card.php:100
+#: includes/class-net-banking.php:101 includes/class-payumoney.php:102
+#: includes/class-cod.php:99 includes/class-credit-card.php:98
+msgid "Enable PayU Test Mode"
+msgstr ""
+
+#: includes/class-amex-eze-click.php:101 includes/class-emi.php:103
+#: includes/class-wallet.php:103 includes/class-debit-card.php:102
+#: includes/class-net-banking.php:103 includes/class-payumoney.php:104
+#: includes/class-cod.php:101 includes/class-credit-card.php:100
+msgid ""
+"If you are not using live mode and using test credentials then click here."
+msgstr ""
+
+#: includes/class-amex-eze-click.php:116
+msgid "PayU Amex ezeClick works with Indian Rupee."
+msgstr ""
+
+#: includes/class-amex-eze-click.php:129 includes/class-cod.php:128
+#: includes/class-credit-card.php:127
+msgid "Gateway Disabled"
+msgstr ""
+
+#: includes/class-amex-eze-click.php:129 includes/class-cod.php:128
+#: includes/class-credit-card.php:127
+#, php-format
+msgid ""
+"Choose Indian Rupee (₹) as your store currency in <a href=\"%s\">Pricing "
+"Options</a> to enable the PayU Gateway."
+msgstr ""
+
+#: includes/class-emi.php:21
+msgid "PayU EMI"
+msgstr ""
+
+#: includes/class-emi.php:126
+msgid "Select Bank"
+msgstr ""
+
+#: includes/class-emi.php:147
+msgid "Select duration"
+msgstr ""
+
+#: includes/class-emi.php:160 includes/class-debit-card.php:186
+#: includes/class-credit-card.php:150
+msgid "Card Number"
+msgstr ""
+
+#: includes/class-emi.php:165 includes/class-debit-card.php:191
+#: includes/class-credit-card.php:155
+msgid "Name On Card"
+msgstr ""
+
+#: includes/class-emi.php:170 includes/class-debit-card.php:197
+#: includes/class-credit-card.php:171
+msgid "Expiration Date"
+msgstr ""
+
+#: includes/class-emi.php:203 includes/class-debit-card.php:230
+#: includes/class-credit-card.php:204
+msgid "Card Verification Number (CVV)"
+msgstr ""
+
+#: includes/class-emi.php:230
+msgid "Card number you entered is invalid."
+msgstr ""
+
+#: includes/class-emi.php:233 includes/class-debit-card.php:144
+#: includes/class-credit-card.php:248
+msgid "Card expiration date is not valid."
+msgstr ""
+
+#: includes/class-emi.php:236 includes/class-debit-card.php:149
+#: includes/class-credit-card.php:253
+msgid ""
+"Card verification number (CVV) is not valid. You can find this number on "
+"your credit card."
+msgstr ""
+
+#: includes/class-wallet.php:21 includes/class-wallet.php:116
+msgid "PayU Wallet"
+msgstr ""
+
+#: includes/class-wallet.php:117
+msgid "Allows Wallet Payments."
+msgstr ""
+
+#: includes/class-wallet.php:136 includes/class-net-banking.php:136
+msgid "Please select bank for further process of payment. "
+msgstr ""
+
+#: includes/class-wallet.php:152 includes/class-net-banking.php:152
+msgid "Select one of the popular banks:"
+msgstr ""
+
+#: includes/class-debit-card.php:20
+msgid "PayU Debit Card"
+msgstr ""
+
+#: includes/class-debit-card.php:138
+msgid "Debit card number you entered is invalid."
+msgstr ""
+
+#: includes/class-debit-card.php:141 includes/class-credit-card.php:244
+msgid "Card type is not valid."
+msgstr ""
+
+#: includes/class-debit-card.php:172
+msgid "Select Debit Card"
+msgstr ""
+
+#: includes/class-net-banking.php:21 includes/class-net-banking.php:116
+msgid "PayU Net Banking"
+msgstr ""
+
+#: includes/class-net-banking.php:117
+msgid "Allows Net Banking Payments."
+msgstr ""
+
+#: includes/class-payumoney.php:22 includes/class-payumoney.php:117
+msgid "PayU Money"
+msgstr ""
+
+#: includes/class-payumoney.php:118
+msgid "Allows PayU Money Payments."
+msgstr ""
+
+#: includes/class-cod.php:21 includes/class-cod.php:114
+msgid "PayU Cash On Delivery"
+msgstr ""
+
+#: includes/class-cod.php:115
+msgid "PayU Cash On Delivery works with Indian Rupee."
+msgstr ""
+
+#: includes/class-credit-card.php:21 includes/class-credit-card.php:113
+msgid "PayU Credit Card"
+msgstr ""
+
+#: includes/class-credit-card.php:114
+msgid "PayU Credit Card works with Indian Rupee."
+msgstr ""
+
+#: includes/class-credit-card.php:160
+msgid "Card Type"
+msgstr ""
+
+#: includes/class-credit-card.php:241
+msgid "Credit card number you entered is invalid."
+msgstr ""
+
+#: includes/common-functions.php:252
+msgid "There was a problem connecting to the payment gateway."
+msgstr ""
+
+#: includes/common-functions.php:257
+msgid "Empty PayU response."
+msgstr ""
+
+#. Name of the plugin
+msgid "PayUIndia - Onsite Payment"
+msgstr ""
+
+#. Description of the plugin
+msgid "Give all payment methods on you site."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://tasolglobal.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Tailored Solutions Pvt. Ltd."
+msgstr ""
