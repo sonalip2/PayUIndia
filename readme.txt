@@ -1,7 +1,6 @@
 === PayUIndia Plugin ===
-Contributors: Tailored Solutions Pvt. Ltd.
+Contributors: Sonali Pawar
 Tags: payuindia, woocommerce plugin,
-Donate link: http://tasolglobal.com
 Requires at least: 4.0
 Tested up to: 4.6
 License: GPLv2 or later
